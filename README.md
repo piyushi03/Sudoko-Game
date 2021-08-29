@@ -5,14 +5,14 @@
 ### Initial Preview
 
 <p align="center">
-  <img src="app_preview/initial_preview.PNG" width="700" alt="accessibility text">
+  <img src="app_preview/initial_preview_p.PNG" width="700" alt="accessibility text">
 </p>
 
 
 ### Generate Puzzle
 
 <p align="center">
-  <img src="app_preview/generate_puzzle.PNG" width="700" alt="accessibility text">
+  <img src="app_preview/generate_puzzle_p.PNG" width="700" alt="accessibility text">
 </p>
 
 
